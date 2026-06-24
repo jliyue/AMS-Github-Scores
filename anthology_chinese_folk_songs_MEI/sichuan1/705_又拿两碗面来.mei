@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="mc5n4sf">
+      <fileDesc xml:id="f19s8ck2">
+         <titleStmt xml:id="tur0cgc">
+            <title>页面_song_705</title>
+            <respStmt />
+         </titleStmt>
+         <pubStmt xml:id="p1jw6r49" />
+      </fileDesc>
+      <encodingDesc xml:id="e1omfkk">
+         <appInfo xml:id="adgyuy7">
+            <application xml:id="acb5j14" isodate="2026-06-24T10:13:54" version="6.2.1">
+               <name xml:id="ny4kht8">Verovio</name>
+               <p xml:id="p1207mgz">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="i1bbwn6g">
+            <score xml:id="j10a09pl">
+               <scoreDef xml:id="kzfyoe5">
+                  <staffGrp xml:id="mizvo0g">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                        <label xml:id="n4uilg0">简谱旋律</label>
+                        <keySig xml:id="x1sdnc76" sig="0" />
+                        <meterSig xml:id="y1nekuzj" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="lnljr5h">
+                  <expansion plist="#g5i09pl" xml:id="hqi5ky2" />
+                  <section xml:id="g5i09pl">
+                     <measure xml:id="zhfk3pj" n="1">
+                        <staff xml:id="itbn269" n="1">
+                           <layer xml:id="jadc6h5" n="1">
+                              <note xml:id="k17trej6" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="l7q1nw" />
+                              </note>
+                              <note xml:id="m1mz5hvk" dur.ppq="2" dur="8" oct="4" pname="d">
+                                 <accid xml:id="nd53s5n" />
+                              </note>
+                              <note xml:id="oosphqe" dur.ppq="2" dur="8" oct="4" pname="e">
+                                 <accid xml:id="pu2pro6" />
+                              </note>
+                              <note xml:id="q1hd7eia" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="rvlrymz" />
+                              </note>
+                              <note xml:id="s1ut621u" dur.ppq="2" dur="8" oct="4" pname="d">
+                                 <accid xml:id="t8dhtxe" />
+                              </note>
+                              <note xml:id="u13jdyck" dur.ppq="2" dur="8" oct="4" pname="e">
+                                 <accid xml:id="vp6h48i" />
+                              </note>
+                              <note xml:id="w11lmz9d" dur.ppq="2" dur="8" oct="4" pname="c">
+                                 <accid xml:id="x10d3ga" />
+                              </note>
+                              <note xml:id="y1ulhlrg" dur.ppq="2" dur="8" oct="3" pname="a">
+                                 <accid xml:id="z1rs0yw7" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="klikeq6">
+                        <meterSig xml:id="lxmoagj" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="a7mj7uw" metcon="false" n="2">
+                        <staff xml:id="jyouyqc" n="1">
+                           <layer xml:id="m1exqiq4" n="1">
+                              <rest xml:id="niy9bcq" dur.ppq="4" dur="4" />
+                              <rest xml:id="o1hbdstg" dur.ppq="4" dur="4" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="z1q2bwdr">
+                        <meterSig xml:id="au7qbfm" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="p1031k59" metcon="false" n="3">
+                        <staff xml:id="yumrhu1" n="1">
+                           <layer xml:id="b1gvvumr" n="1">
+                              <note xml:id="cmcdevl" dots="1" dur.ppq="3" dur="8" oct="4" pname="e">
+                                 <accid xml:id="dmjpp52" />
+                              </note>
+                              <note xml:id="e1i392xv" dots="1" dur.ppq="6" dur="4" oct="4" pname="g">
+                                 <accid xml:id="fluljnp" />
+                              </note>
+                              <note xml:id="gnkry7l" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="h1ayu5px" />
+                              </note>
+                              <note xml:id="i1ki3ht3" dur.ppq="1" dur="16" oct="4" pname="e">
+                                 <accid xml:id="jovcfe6" />
+                              </note>
+                              <note xml:id="k8e3fi5" dur.ppq="1" dur="16" oct="4" pname="d">
+                                 <accid xml:id="l1el44p9" />
+                              </note>
+                              <note xml:id="me0ysbb" dur.ppq="4" dur="4" oct="4" pname="c">
+                                 <accid xml:id="n13v4ejl" />
+                              </note>
+                              <note xml:id="o1eph1z9" dur.ppq="4" dur="4" oct="3" pname="a">
+                                 <accid xml:id="p1xcbrj0" />
+                              </note>
+                              <note xml:id="qrbsfzg" dur.ppq="4" dur="4" oct="3" pname="a">
+                                 <accid xml:id="r924zxx" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="clhlmge">
+                        <meterSig xml:id="d3bekez" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="s1pbsncj" metcon="false" n="4">
+                        <staff xml:id="b9oqc5v" n="1">
+                           <layer xml:id="e1yoyhq3" n="1">
+                              <rest xml:id="fvpo0rz" dur.ppq="4" dur="4" />
+                              <rest xml:id="gsrvlev" dur.ppq="4" dur="4" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="r1emir5p">
+                        <meterSig xml:id="sns9t1a" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="h1omsnur" metcon="false" n="5">
+                        <staff xml:id="qofcbh" n="1">
+                           <layer xml:id="t1thxbn2" n="1">
+                              <note xml:id="uf2g907" dur.ppq="2" dur="8" oct="4" pname="e">
+                                 <accid xml:id="vim1gi9" />
+                              </note>
+                              <note xml:id="w3eyb5e" dur.ppq="2" dur="8" oct="4" pname="e">
+                                 <accid xml:id="x1rgol1i" />
+                              </note>
+                              <note xml:id="ypmfhbs" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="zdg1asa" />
+                              </note>
+                              <note xml:id="a1ymnun1" dur.ppq="2" dur="8" oct="4" pname="e">
+                                 <accid xml:id="b168z87x" />
+                              </note>
+                              <note xml:id="c157z10i" dur.ppq="2" dur="8" oct="4" pname="d">
+                                 <accid xml:id="d5q4so6" />
+                              </note>
+                              <note xml:id="e19h4dd3" dur.ppq="4" dur="4" oct="4" pname="c">
+                                 <accid xml:id="f1bxp1vt" />
+                              </note>
+                              <note xml:id="g1sbykfa" dur.ppq="2" dur="8" oct="3" pname="a">
+                                 <accid xml:id="h1d2d1o3" />
+                              </note>
+                              <note xml:id="irzc6gp" dur.ppq="2" dur="8" oct="3" pname="g">
+                                 <accid xml:id="j174hve7" />
+                              </note>
+                              <note xml:id="k1lax4s1" dur.ppq="2" dur="8" oct="3" pname="a">
+                                 <accid xml:id="lp7qbir" />
+                              </note>
+                              <note xml:id="mp43dvh" dur.ppq="2" dur="8" oct="4" pname="c">
+                                 <accid xml:id="n3yg4ub" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="y8abwuu">
+                        <meterSig xml:id="z13no7fs" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="o454s7k" metcon="false" n="6">
+                        <staff xml:id="xc5llqj" n="1">
+                           <layer xml:id="a95hoc1" n="1">
+                              <note xml:id="b16pnqce" dur.ppq="2" dur="8" oct="4" pname="d">
+                                 <accid xml:id="c14k0xwj" />
+                              </note>
+                              <note xml:id="d1d7q62c" dur.ppq="1" dur="16" oct="4" pname="d">
+                                 <accid xml:id="ex6dlpq" />
+                              </note>
+                              <note xml:id="f1y7go5v" dur.ppq="1" dur="16" oct="4" pname="e">
+                                 <accid xml:id="g177rr7o" />
+                              </note>
+                              <note xml:id="hm52veo" dur.ppq="9" dur="2" oct="4" pname="d">
+                                 <accid xml:id="iedk38m" />
+                              </note>
+                              <rest xml:id="jccrwfj" dur.ppq="4" dur="4" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="u1t78e5">
+                        <meterSig xml:id="v1wdi46c" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="kjja1na" metcon="false" n="7">
+                        <staff xml:id="t1907knd" n="1">
+                           <layer xml:id="w2rtvj4" n="1">
+                              <rest xml:id="x11i1r5a" dur.ppq="1" dur="16" />
+                              <note xml:id="y1yiuj2n" dur.ppq="1" dur="16" oct="4" pname="g">
+                                 <accid xml:id="z7dtfde" />
+                              </note>
+                              <note xml:id="adtndgq" dur.ppq="2" dur="8" oct="4" pname="d">
+                                 <accid xml:id="b1lzvpod" />
+                              </note>
+                              <note xml:id="c1mptal5" dur.ppq="4" dur="4" oct="4" pname="e">
+                                 <accid xml:id="d12qjznw" />
+                              </note>
+                              <note xml:id="e14mo45t" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="f1lytf1v" />
+                              </note>
+                              <note xml:id="g1g3rkh" dots="1" dur.ppq="6" dur="4" oct="4" pname="e">
+                                 <accid xml:id="h194o7dn" />
+                              </note>
+                              <note xml:id="ilw32xc" dur.ppq="1" dur="16" oct="4" pname="d">
+                                 <accid xml:id="j196hpj6" />
+                              </note>
+                              <note xml:id="kpwtgcr" dur.ppq="1" dur="16" oct="4" pname="c">
+                                 <accid xml:id="lwinlmd" />
+                              </note>
+                              <note xml:id="m1gn1uxs" dur.ppq="2" dur="8" oct="3" pname="a">
+                                 <accid xml:id="nonnd6l" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="y1dgc0tn">
+                        <meterSig xml:id="z2foilv" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="ov74pi7" metcon="false" n="8">
+                        <staff xml:id="xv9na7u" n="1">
+                           <layer xml:id="a1xeycdn" n="1">
+                              <note xml:id="b1hrggza" dots="1" dur.ppq="3" dur="8" oct="4" pname="e">
+                                 <accid xml:id="cl686x9" />
+                              </note>
+                              <note xml:id="do3aj15" dots="1" dur.ppq="6" dur="4" oct="4" pname="g">
+                                 <accid xml:id="e1h2ytf6" />
+                              </note>
+                              <note xml:id="fjryj5w" dur.ppq="1" dur="16" oct="4" pname="e">
+                                 <accid xml:id="g75w9ad" />
+                              </note>
+                              <note xml:id="h12nekq8" dur.ppq="1" dur="16" oct="4" pname="d">
+                                 <accid xml:id="i1mg7zy3" />
+                              </note>
+                              <note xml:id="j1qq3i8s" dur.ppq="2" dur="8" oct="3" pname="a">
+                                 <accid xml:id="k103dwra" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="vj4lykg">
+                        <meterSig xml:id="wcwjcav" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="l1pcr1ia" metcon="false" n="9">
+                        <staff xml:id="ugirxq0" n="1">
+                           <layer xml:id="x3e0860" n="1">
+                              <note xml:id="y1vxy2fz" dots="1" dur.ppq="3" dur="8" oct="4" pname="e">
+                                 <accid xml:id="zui8cjc" />
+                              </note>
+                              <note xml:id="a1bcyiod" dur.ppq="1" dur="16" oct="4" pname="d">
+                                 <accid xml:id="b1gl2px6" />
+                              </note>
+                              <note xml:id="c8r68jp" dots="1" dur.ppq="3" dur="8" oct="4" pname="c">
+                                 <accid xml:id="d1pgnxnv" />
+                              </note>
+                              <note xml:id="e7rq5b6" dur.ppq="1" dur="16" oct="3" pname="a">
+                                 <accid xml:id="f1jbbsa6" />
+                              </note>
+                              <note xml:id="gj3ya71" dur.ppq="2" dur="8" oct="3" pname="g">
+                                 <accid xml:id="h1xbktcn" />
+                              </note>
+                              <note xml:id="i1r52bg6" dots="1" dur.ppq="6" dur="4" oct="3" pname="g">
+                                 <accid xml:id="j12731rb" />
+                              </note>
+                              <note xml:id="kqfgl9d" dur.ppq="2" dur="8" oct="3" pname="a">
+                                 <accid xml:id="l29lh47" />
+                              </note>
+                              <note xml:id="mhj4k9g" dur.ppq="2" dur="8" oct="4" pname="c">
+                                 <accid xml:id="ni74wvv" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="y84ii4q">
+                        <meterSig xml:id="z5u5gfg" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="o1em3xqo" metcon="false" n="10">
+                        <staff xml:id="x1x0rh1h" n="1">
+                           <layer xml:id="a1vmqbeq" n="1">
+                              <note xml:id="b1pjwyv1" dur.ppq="2" dur="8" oct="4" pname="d">
+                                 <accid xml:id="c1yse5u5" />
+                              </note>
+                              <note xml:id="d4vqt1j" dur.ppq="1" dur="16" oct="4" pname="d">
+                                 <accid xml:id="e151x8yt" />
+                              </note>
+                              <note xml:id="f1c9n1yy" dur.ppq="1" dur="16" oct="4" pname="e">
+                                 <accid xml:id="g10qm1jd" />
+                              </note>
+                              <note xml:id="h11w6zt6" dur.ppq="8" dur="2" oct="4" pname="d">
+                                 <accid xml:id="isfnldl" />
+                              </note>
+                              <rest xml:id="jo17skn" dur.ppq="4" dur="4" />
+                              <rest xml:id="k1vbahac" dur.ppq="4" dur="4" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="v1gwfiod">
+                        <meterSig xml:id="w1xyzuxe" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="l1flwrjq" metcon="false" n="11">
+                        <staff xml:id="updems7" n="1">
+                           <layer xml:id="xwk6ctf" n="1">
+                              <note xml:id="y1s14hkd" dur.ppq="1" dur="16" oct="4" pname="e">
+                                 <accid xml:id="z3hocm3" />
+                              </note>
+                              <note xml:id="a1131f73" dur.ppq="1" dur="16" oct="4" pname="g">
+                                 <accid xml:id="b1t0k3bl" />
+                              </note>
+                              <note xml:id="cx71skk" dur.ppq="2" dur="8" oct="4" pname="d">
+                                 <accid xml:id="d1fytwzf" />
+                              </note>
+                              <note xml:id="ekzs48f" dur.ppq="1" dur="16" oct="4" pname="e">
+                                 <accid xml:id="fikd7c0" />
+                              </note>
+                              <note xml:id="g1kk6bdl" dur.ppq="1" dur="16" oct="4" pname="g">
+                                 <accid xml:id="h2u2lfd" />
+                              </note>
+                              <note xml:id="ix3hp9d" dur.ppq="4" dur="4" oct="4" pname="e">
+                                 <accid xml:id="jb9gmss" />
+                              </note>
+                              <note xml:id="k1x449sr" dur.ppq="1" dur="16" oct="4" pname="d">
+                                 <accid xml:id="lq6rx55" />
+                              </note>
+                              <note xml:id="m1qh1kt3" dur.ppq="1" dur="16" oct="4" pname="c">
+                                 <accid xml:id="n1fz63rc" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="ybqbttw">
+                        <meterSig xml:id="z1mvqzj7" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="o1q32gec" n="12">
+                        <staff xml:id="xuwo10r" n="1">
+                           <layer xml:id="a10dt60j" n="1">
+                              <note xml:id="bk7c71d" dur.ppq="4" dur="4" oct="3" pname="a">
+                                 <accid xml:id="cigykqs" />
+                              </note>
+                              <note xml:id="d8a16s8" dur.ppq="12" dur="2" oct="4" pname="d">
+                                 <accid xml:id="ep8ncu3" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="p10elz9u">
+                        <meterSig xml:id="q1pit1gz" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="f1dtd9fc" n="13">
+                        <staff xml:id="o1ueawrd" n="1">
+                           <layer xml:id="ri2wfem" n="1">
+                              <note xml:id="s1dhnq2t" dots="1" dur.ppq="3" dur="8" oct="4" pname="g">
+                                 <accid xml:id="t2y0vl9" />
+                              </note>
+                              <note xml:id="u1mqwj3p" dur.ppq="1" dur="16" oct="4" pname="e">
+                                 <accid xml:id="viq0oey" />
+                              </note>
+                              <note xml:id="wi6xlif" dur.ppq="4" dur="4" oct="4" pname="e">
+                                 <accid xml:id="xuoy8og" />
+                              </note>
+                              <note xml:id="y1mlmps2" dots="1" dur.ppq="7" dur="4" oct="4" pname="e">
+                                 <accid xml:id="z1lzp5t7" />
+                              </note>
+                              <note xml:id="a1qs32we" dur.ppq="1" dur="16" oct="4" pname="d">
+                                 <accid xml:id="bl88k9p" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="my0avrl">
+                        <meterSig xml:id="n1e760nn" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="cdxrtjs" n="14">
+                        <staff xml:id="l1sjqfc5" n="1">
+                           <layer xml:id="odyxtna" n="1">
+                              <note xml:id="p1p2y43w" dur.ppq="12" dur="2" oct="4" pname="c">
+                                 <accid xml:id="q1pkif2" />
+                              </note>
+                              <rest xml:id="r10pemmz" dur.ppq="4" dur="4" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="c10qbxir">
+                        <meterSig xml:id="d4e1szc" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="s1sualfs" metcon="false" n="15">
+                        <staff xml:id="b1uah2r2" n="1">
+                           <layer xml:id="e1lfk768" n="1">
+                              <rest xml:id="fl94ynj" dur.ppq="4" dur="4" />
+                              <rest xml:id="gn34dyd" dur.ppq="4" dur="4" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="r1dlwvvl">
+                        <meterSig xml:id="s1dv2k61" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="h1gduwq7" n="16">
+                        <staff xml:id="q422u6" n="1">
+                           <layer xml:id="t12s5o0q" n="1">
+                              <note xml:id="u1gj0g2z" dur.ppq="4" dur="4" oct="4" pname="g">
+                                 <accid xml:id="vdzxx0n" />
+                              </note>
+                              <note xml:id="w1xyv5og" dur.ppq="8" dur="2" oct="4" pname="e">
+                                 <accid xml:id="xlm1fox" />
+                              </note>
+                              <rest xml:id="y1of59ow" dur.ppq="4" dur="4" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="jioe4fl">
+                        <meterSig xml:id="kt1w830" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="z1k6fovh" metcon="false" n="17">
+                        <staff xml:id="ihjdyfv" n="1">
+                           <layer xml:id="luz5l52" n="1">
+                              <note xml:id="m19f4jaf" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="nn48xbq" />
+                              </note>
+                              <note xml:id="oklqh0h" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="pgg1wny" />
+                              </note>
+                              <note xml:id="qh72hjx" dur.ppq="2" dur="8" oct="4" pname="d">
+                                 <accid xml:id="r1y7976j" />
+                              </note>
+                              <note xml:id="s10x9k4l" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="t1pryxdc" />
+                              </note>
+                              <note xml:id="u1e7jnc7" dur.ppq="4" dur="4" oct="4" pname="e">
+                                 <accid xml:id="v1k0wg5c" />
+                              </note>
+                              <note xml:id="wch2st4" dots="1" dur.ppq="6" dur="4" oct="4" pname="d">
+                                 <accid xml:id="xoijz4k" />
+                              </note>
+                              <note xml:id="yxpbzb" dots="1" dur.ppq="6" dur="4" oct="4" pname="c">
+                                 <accid xml:id="z1n4bwzm" />
+                              </note>
+                              <note xml:id="a15v9r02" dur.ppq="4" dur="4" oct="4" pname="c">
+                                 <accid xml:id="bhmt0ul" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="m10zpvt5">
+                        <meterSig xml:id="n1hadf4h" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="cr57dl7" metcon="false" n="18">
+                        <staff xml:id="l1nttln0" n="1">
+                           <layer xml:id="ov82bsy" n="1">
+                              <rest xml:id="p1xirbho" dur.ppq="4" dur="4" />
+                              <rest xml:id="q1du8f91" dur.ppq="4" dur="4" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="b1xw9t5j">
+                        <meterSig xml:id="c188ahnt" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="r14j3csc" metcon="false" n="19">
+                        <staff xml:id="a16yuzne" n="1">
+                           <layer xml:id="d1mpnmuw" n="1">
+                              <rest xml:id="ehi40zk" dur.ppq="2" dur="8" />
+                              <note xml:id="f1scj4d9" dur.ppq="2" dur="8" oct="4" pname="d">
+                                 <accid xml:id="g1umwr3e" />
+                              </note>
+                              <note xml:id="haqb8sg" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="inj1w5a" />
+                              </note>
+                              <note xml:id="joqjkoq" dur.ppq="2" dur="8" oct="4" pname="d">
+                                 <accid xml:id="k265hg8" />
+                              </note>
+                              <note xml:id="l1dkso6r" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="mul2twx" />
+                              </note>
+                              <note xml:id="n14z835u" dur.ppq="2" dur="8" oct="4" pname="e">
+                                 <accid xml:id="ob6618b" />
+                              </note>
+                              <note xml:id="p1t7ucxu" dur.ppq="2" dur="8" oct="4" pname="d">
+                                 <accid xml:id="qfrgwnb" />
+                              </note>
+                              <note xml:id="r1a59rrk" dur.ppq="2" dur="8" oct="4" pname="e">
+                                 <accid xml:id="s12l32j3" />
+                              </note>
+                              <note xml:id="t6op2aw" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="ur84mw8" />
+                              </note>
+                              <note xml:id="v1762f4c" dur.ppq="2" dur="8" oct="4" pname="e">
+                                 <accid xml:id="wq4chs5" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="h11cman">
+                        <meterSig xml:id="i1buvhf2" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="x1j3qj9f" metcon="false" n="20">
+                        <staff xml:id="gf2hxtx" n="1">
+                           <layer xml:id="jjfnd59" n="1">
+                              <note xml:id="kuqxcv5" dur.ppq="1" dur="16" oct="4" pname="d">
+                                 <accid xml:id="l14x68mw" />
+                              </note>
+                              <note xml:id="mejr5rk" dur.ppq="1" dur="16" oct="4" pname="c">
+                                 <accid xml:id="n1243i91" />
+                              </note>
+                              <note xml:id="o1vzyf1x" dur.ppq="2" dur="8" oct="3" pname="a">
+                                 <accid xml:id="pfjvrv0" />
+                              </note>
+                              <note xml:id="q1hzeu81" dur.ppq="4" dur="4" oct="3" pname="g">
+                                 <accid xml:id="r1yteyyj" />
+                              </note>
+                              <note xml:id="s13svqqd" dur.ppq="2" dur="8" oct="3" pname="a">
+                                 <accid xml:id="t8sfm77" />
+                              </note>
+                              <note xml:id="u1c4y6ix" dur.ppq="2" dur="8" oct="4" pname="c">
+                                 <accid xml:id="v1qr9dd9" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="g17ze2yg">
+                        <meterSig xml:id="h1tnaf78" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="wd1tov9" metcon="false" n="21">
+                        <staff xml:id="f18fz5ge" n="1">
+                           <layer xml:id="i352u9k" n="1">
+                              <note xml:id="j9gmlsb" dur.ppq="12" dur="2" oct="4" pname="d">
+                                 <accid xml:id="kww2a8v" />
+                              </note>
+                              <rest xml:id="l13zoflb" dur.ppq="4" dur="4" />
+                              <rest xml:id="m6fc46p" dur.ppq="4" dur="4" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="x1gpvm16">
+                        <meterSig xml:id="y15rans3" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="ndhhiht" metcon="false" n="22">
+                        <staff xml:id="w1poww0f" n="1">
+                           <layer xml:id="zg02ns8" n="1">
+                              <note xml:id="acr2dem" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="ba9qm9c" />
+                              </note>
+                              <note xml:id="cyelft0" dur.ppq="2" dur="8" oct="4" pname="e">
+                                 <accid xml:id="dyaoa32" />
+                              </note>
+                              <note xml:id="e8nc7t5" dur.ppq="4" dur="4" oct="4" pname="d">
+                                 <accid xml:id="f177anhp" />
+                              </note>
+                              <note xml:id="g6zzz7n" dur.ppq="2" dur="8" oct="4" pname="d">
+                                 <accid xml:id="hasoh6a" />
+                              </note>
+                              <note xml:id="iuj9huo" dur.ppq="2" dur="8" oct="4" pname="e">
+                                 <accid xml:id="j2firoo" />
+                              </note>
+                              <note xml:id="k6mbzk8" dots="1" dur.ppq="6" dur="4" oct="4" pname="g">
+                                 <accid xml:id="l1og4t9j" />
+                              </note>
+                              <note xml:id="mu2yg0x" dur.ppq="2" dur="8" oct="4" pname="e">
+                                 <accid xml:id="n140o62y" />
+                              </note>
+                              <note xml:id="o1okwkcw" dur.ppq="2" dur="8" oct="4" pname="d">
+                                 <accid xml:id="pxurqrx" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="a1kt3v6j">
+                        <meterSig xml:id="b1rbwbo1" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="qnil0qo" n="23">
+                        <staff xml:id="z1sanmbf" n="1">
+                           <layer xml:id="c12uh6cd" n="1">
+                              <note xml:id="dj6dynn" dur.ppq="2" dur="8" oct="4" pname="c">
+                                 <accid xml:id="el3gk5s" />
+                              </note>
+                              <note xml:id="f1fyrjmx" dur.ppq="2" dur="8" oct="3" pname="a">
+                                 <accid xml:id="gd8vh5m" />
+                              </note>
+                              <note xml:id="h1tasd6w" dur.ppq="4" dur="4" oct="3" pname="a">
+                                 <accid xml:id="ikrg4gb" />
+                              </note>
+                              <note xml:id="jbx3ycs" dur.ppq="4" dur="4" oct="3" pname="a">
+                                 <accid xml:id="k3q2b9m" />
+                              </note>
+                              <rest xml:id="l1ol9bb6" dur.ppq="4" dur="4" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="w1rbkel7">
+                        <meterSig xml:id="x2ygwji" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="m1jk0wa7" metcon="false" n="24">
+                        <staff xml:id="vh5d58b" n="1">
+                           <layer xml:id="y1wx7wt3" n="1">
+                              <note xml:id="zn1aeba" dur.ppq="1" dur="16" oct="4" pname="g">
+                                 <accid xml:id="a13xu8v2" />
+                              </note>
+                              <note xml:id="bxag2pl" dur.ppq="1" dur="16" oct="4" pname="d">
+                                 <accid xml:id="c19dl1ad" />
+                              </note>
+                              <note xml:id="dw85gtl" dur.ppq="1" dur="16" oct="4" pname="e">
+                                 <accid xml:id="e2waigu" />
+                              </note>
+                              <note xml:id="fhmnspw" dur.ppq="1" dur="16" oct="4" pname="g">
+                                 <accid xml:id="g1458cw5" />
+                              </note>
+                              <note xml:id="h1jtg0zd" dur.ppq="2" dur="8" oct="4" pname="d">
+                                 <accid xml:id="ifwjekk" />
+                              </note>
+                              <note xml:id="j1n4koqz" dots="1" dur.ppq="6" dur="4" oct="4" pname="c">
+                                 <accid xml:id="kyui4rm" />
+                              </note>
+                              <note xml:id="lmbms37" dots="1" dur.ppq="1" dur="16" oct="4" pname="e">
+                                 <accid xml:id="mcjmifp" />
+                              </note>
+                              <note xml:id="n16leren" dur.ppq="1" dur="16" oct="4" pname="d">
+                                 <accid xml:id="o18q2xs3" />
+                              </note>
+                              <note xml:id="pzmgfx" dots="1" dur.ppq="3" dur="8" oct="4" pname="d">
+                                 <accid xml:id="qszni" />
+                              </note>
+                              <note xml:id="rit64vu" dur.ppq="1" dur="16" oct="4" pname="e">
+                                 <accid xml:id="s1rstqg0" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="d1549lcz">
+                        <meterSig xml:id="e1yp5ok8" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="tqqceft" n="25">
+                        <staff xml:id="c1qmz4ah" n="1">
+                           <layer xml:id="f1grtlnp" n="1">
+                              <note xml:id="g6s7jj6" dur.ppq="1" dur="16" oct="4" pname="c">
+                                 <accid xml:id="h1kjyd6c" />
+                              </note>
+                              <note xml:id="i1pqtftf" dur.ppq="1" dur="16" oct="3" pname="a">
+                                 <accid xml:id="jrp9jp7" />
+                              </note>
+                              <note xml:id="k1emrevl" dur.ppq="2" dur="8" oct="3" pname="a">
+                                 <accid xml:id="l1kq0phz" />
+                              </note>
+                              <note xml:id="mews1qr" dur.ppq="4" dur="4" oct="3" pname="a">
+                                 <accid xml:id="nngxm1s" />
+                              </note>
+                              <rest xml:id="obruad3" dur.ppq="4" dur="4" />
+                              <rest xml:id="p1otj1l1" dur.ppq="4" dur="4" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="a1u5pxkw">
+                        <meterSig xml:id="b1qb3nwv" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="qb9jhq1" metcon="false" n="26">
+                        <staff xml:id="znzg8mz" n="1">
+                           <layer xml:id="ch72dh5" n="1">
+                              <note xml:id="dyo57p8" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="eailn0g" />
+                              </note>
+                              <note xml:id="f17xrfty" dur.ppq="2" dur="8" oct="4" pname="e">
+                                 <accid xml:id="g19sr410" />
+                              </note>
+                              <note xml:id="hi8kwcm" dur.ppq="10" dur="2" oct="4" pname="e">
+                                 <accid xml:id="i15k8tpq" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="t1n4v7kq">
+                        <meterSig xml:id="u11tb6hx" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="j1746n19" metcon="false" n="27">
+                        <staff xml:id="s1cyprwq" n="1">
+                           <layer xml:id="v19d1vpj" n="1">
+                              <note xml:id="w1y1g4pc" dur.ppq="2" dur="8" oct="4" pname="d">
+                                 <accid xml:id="xx630ck" />
+                              </note>
+                              <note xml:id="ysynj3t" dur.ppq="1" dur="16" oct="4" pname="c">
+                                 <accid xml:id="zprwf8a" />
+                              </note>
+                              <note xml:id="a1hfygmv" dur.ppq="1" dur="16" oct="4" pname="d">
+                                 <accid xml:id="bnimysn" />
+                              </note>
+                              <note xml:id="crx3qb1" dur.ppq="13" dur="2" oct="4" pname="c">
+                                 <accid xml:id="d1ianzra" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="od2w29h">
+                        <meterSig xml:id="p1ooqsjm" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="e1156ms0" metcon="false" n="28">
+                        <staff xml:id="nofcxdc" n="1">
+                           <layer xml:id="qfu9vne" n="1">
+                              <rest xml:id="r1vjqxa4" dur.ppq="4" dur="4" />
+                              <rest xml:id="s1w56ucg" dur.ppq="4" dur="4" />
+                              <rest xml:id="t9nu64t" dur.ppq="4" dur="4" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="e3wa74s">
+                        <meterSig xml:id="fm2kqek" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="u1izumnh" metcon="false" n="29">
+                        <staff xml:id="du4wn3r" n="1">
+                           <layer xml:id="g1mgfbp" n="1">
+                              <rest xml:id="hm81jox" dur.ppq="4" dur="4" />
+                              <rest xml:id="i1c2xwqk" dur.ppq="4" dur="4" />
+                              <rest xml:id="j1v871lz" dur.ppq="4" dur="4" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="u16as8tt">
+                        <meterSig xml:id="v1m0jb6f" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="k18qaaqn" metcon="false" n="30">
+                        <staff xml:id="t1d7t8g4" n="1">
+                           <layer xml:id="wzf2uav" n="1">
+                              <note xml:id="x17o8oed" dur.ppq="1" dur="16" oct="4" pname="g">
+                                 <accid xml:id="y1o82ccx" />
+                              </note>
+                              <note xml:id="z15e8x36" dur.ppq="2" dur="8" oct="4" pname="e">
+                                 <accid xml:id="a1c2lhol" />
+                              </note>
+                              <note xml:id="bucnnwf" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="cfz8uid" />
+                              </note>
+                              <note xml:id="d117be3d" dur.ppq="2" dur="8" oct="4" pname="e">
+                                 <accid xml:id="e1ua8o0u" />
+                              </note>
+                              <note xml:id="fmwfq2z" dur.ppq="8" dur="2" oct="4" pname="d">
+                                 <accid xml:id="g9755dv" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="rv6hja6">
+                        <meterSig xml:id="s1c464q0" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="hpc6w0g" metcon="false" n="31">
+                        <staff xml:id="qh8o6px" n="1">
+                           <layer xml:id="t1oi6bhm" n="1">
+                              <rest xml:id="uxo0ztm" dur.ppq="4" dur="4" />
+                              <rest xml:id="vfawrg" dur.ppq="4" dur="4" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="gmbgoov">
+                        <meterSig xml:id="h15wsa3o" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="w1mm888h" metcon="false" n="32">
+                        <staff xml:id="f1s7b29f" n="1">
+                           <layer xml:id="i2308zc" n="1">
+                              <note xml:id="j5q1uns" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="k14lcipe" />
+                              </note>
+                              <note xml:id="ltve0y7" dur.ppq="4" dur="4" oct="4" pname="g">
+                                 <accid xml:id="mvfg0oc" />
+                              </note>
+                              <note xml:id="n16j9zca" dur.ppq="2" dur="8" oct="4" pname="e">
+                                 <accid xml:id="o11wk5ct" />
+                              </note>
+                              <note xml:id="pi9a4e6" dur.ppq="2" dur="8" oct="4" pname="d">
+                                 <accid xml:id="q1ipn3sr" />
+                              </note>
+                              <note xml:id="rucfuv1" dur.ppq="1" dur="16" oct="4" pname="g">
+                                 <accid xml:id="s1tjqfga" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="d95udem">
+                        <meterSig xml:id="en8kmb0" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="t163hzuh" metcon="false" n="33">
+                        <staff xml:id="c2quctu" n="1">
+                           <layer xml:id="f1to03jy" n="1">
+                              <note xml:id="goq3bvu" dur.ppq="8" dur="2" oct="4" pname="e">
+                                 <accid xml:id="h1gezd1p" />
+                              </note>
+                              <note xml:id="i141r3pg" dur.ppq="10" dur="2" oct="4" pname="e">
+                                 <accid xml:id="js1650t" />
+                              </note>
+                              <note xml:id="kckp2n" dur.ppq="2" dur="8" oct="4" pname="d">
+                                 <accid xml:id="l1puyiyk" />
+                              </note>
+                              <note xml:id="mc7gkk7" dur.ppq="2" dur="8" oct="4" pname="c">
+                                 <accid xml:id="n16tl332" />
+                              </note>
+                              <note xml:id="o1j92dti" dur.ppq="1" dur="16" oct="3" pname="a">
+                                 <accid xml:id="p9iahl0" />
+                              </note>
+                              <note xml:id="q1b02gu2" dur.ppq="1" dur="16" oct="3" pname="g">
+                                 <accid xml:id="r1c4aqmt" />
+                              </note>
+                              <note xml:id="syd6219" dur.ppq="5" dur="4" oct="3" pname="a">
+                                 <accid xml:id="tc2hzuu" />
+                              </note>
+                              <rest xml:id="uec4xiq" dur.ppq="2" dur="8" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="fydgjwr">
+                        <meterSig xml:id="g2cb7p" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="v1ireg2i" metcon="false" n="34">
+                        <staff xml:id="eti77eq" n="1">
+                           <layer xml:id="h1ffr2vd" n="1">
+                              <note xml:id="i1h6fkh8" dur.ppq="0" dur="32" oct="4" pname="g">
+                                 <accid xml:id="jkc89kx" />
+                              </note>
+                              <note xml:id="kkmb17c" dur.ppq="2" dur="8" oct="4" pname="e">
+                                 <accid xml:id="lmhrazl" />
+                              </note>
+                              <note xml:id="mwqxs2c" dur.ppq="1" dur="16" oct="4" pname="d">
+                                 <accid xml:id="n14jrf2t" />
+                              </note>
+                              <note xml:id="o5hrxwa" dur.ppq="2" dur="8" oct="4" pname="c">
+                                 <accid xml:id="p1x5barc" />
+                              </note>
+                              <note xml:id="q1yngx83" dur.ppq="2" dur="8" oct="3" pname="g">
+                                 <accid xml:id="rcvlpuj" />
+                              </note>
+                              <note xml:id="s6yrg5b" dur.ppq="2" dur="8" oct="3" pname="a">
+                                 <accid xml:id="t9cdrd6" />
+                              </note>
+                              <note xml:id="upx4hzt" dur.ppq="2" dur="8" oct="4" pname="c">
+                                 <accid xml:id="v1iuqdny" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="g1rkudd7">
+                        <meterSig xml:id="hvohg7h" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="w1209x7c" metcon="false" n="35">
+                        <staff xml:id="fec0xzt" n="1">
+                           <layer xml:id="i1in1txm" n="1">
+                              <note xml:id="j9j72sy" dur.ppq="4" dur="4" oct="4" pname="e">
+                                 <accid xml:id="kx26n6e" />
+                              </note>
+                              <note xml:id="lochvit" dur.ppq="1" dur="16" oct="4" pname="d">
+                                 <accid xml:id="m1t8sdmx" />
+                              </note>
+                              <note xml:id="n1ldo5eb" dur.ppq="1" dur="16" oct="4" pname="e">
+                                 <accid xml:id="o1vgdvw4" />
+                              </note>
+                              <note xml:id="pdx426h" dur.ppq="1" dur="16" oct="4" pname="d">
+                                 <accid xml:id="q13qis76" />
+                              </note>
+                              <note xml:id="rlb0g0l" dur.ppq="1" dur="16" oct="4" pname="e">
+                                 <accid xml:id="s1p0v3x8" />
+                              </note>
+                              <note xml:id="t1tatik4" dots="1" dur.ppq="3" dur="8" oct="4" pname="d">
+                                 <accid xml:id="u17vt4v6" />
+                              </note>
+                              <note xml:id="v1sbf17z" dots="1" dur.ppq="6" dur="4" oct="4" pname="c">
+                                 <accid xml:id="wqry2z9" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="h3xdvqh">
+                        <meterSig xml:id="ig242m9" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="xoacj7y" metcon="false" n="36">
+                        <staff xml:id="gxppx9g" n="1">
+                           <layer xml:id="j15yqsd0" n="1">
+                              <note xml:id="k1iv3f13" dur.ppq="1" dur="16" oct="3" pname="a">
+                                 <accid xml:id="l121a4qy" />
+                              </note>
+                              <note xml:id="mcjhbkh" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="n1ga4np4" />
+                              </note>
+                              <note xml:id="o1o9ghrn" dur.ppq="2" dur="8" oct="3" pname="a">
+                                 <accid xml:id="ptg65py" />
+                              </note>
+                              <note xml:id="q1nrwxql" dur.ppq="1" dur="16" oct="3" pname="a">
+                                 <accid xml:id="r1abonpx" />
+                              </note>
+                              <note xml:id="s1hi2u6q" dur.ppq="1" dur="16" oct="3" pname="b">
+                                 <accid xml:id="t14r50uq" />
+                              </note>
+                              <note xml:id="umwej90" dur.ppq="1" dur="16" oct="3" pname="a">
+                                 <accid xml:id="v6un5eu" />
+                              </note>
+                              <note xml:id="wt19dys" dur.ppq="1" dur="16" oct="3" pname="b">
+                                 <accid xml:id="x1heqi79" />
+                              </note>
+                              <note xml:id="y1o3vh0r" dur.ppq="3" dur="8" oct="3" pname="g">
+                                 <accid xml:id="z166on36" />
+                              </note>
+                              <note xml:id="a38959p" dur.ppq="1" dur="16" oct="3" pname="a">
+                                 <accid xml:id="b164sk9r" />
+                              </note>
+                              <note xml:id="c1jpcibf" dur.ppq="2" dur="8" oct="3" pname="g">
+                                 <accid xml:id="dq2bqfu" />
+                              </note>
+                              <note xml:id="eo6zynj" dur.ppq="10" dur="2" oct="3" pname="g">
+                                 <accid xml:id="fi2n7b0" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

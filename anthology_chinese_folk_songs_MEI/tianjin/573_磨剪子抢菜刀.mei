@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="mr1tkxa">
+      <fileDesc xml:id="f72l9mw">
+         <titleStmt xml:id="t9fwm7f">
+            <title>页面_song_573</title>
+            <respStmt />
+         </titleStmt>
+         <pubStmt xml:id="phcu8xq" />
+      </fileDesc>
+      <encodingDesc xml:id="eiza24a">
+         <appInfo xml:id="acowfco">
+            <application xml:id="at1ypid" isodate="2026-06-24T10:14:25" version="6.2.1">
+               <name xml:id="n12ma5aj">Verovio</name>
+               <p xml:id="pzhw783">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="c1hz8pzc">
+            <score xml:id="d161nwiw">
+               <scoreDef xml:id="epffhmr">
+                  <staffGrp xml:id="g1q33j3z">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                        <label xml:id="h2k0x9l">简谱旋律</label>
+                        <keySig xml:id="r1ntw3nj" sig="0" />
+                        <meterSig xml:id="s1kftn48" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="flhu892">
+                  <expansion plist="#s1qvvmgt" xml:id="tj7tu2d" />
+                  <section xml:id="s1qvvmgt">
+                     <measure xml:id="tsasxzt" n="1">
+                        <staff xml:id="cvtzl1h" n="1">
+                           <layer xml:id="d1tf49um" n="1">
+                              <note xml:id="e87bfae" dur.ppq="4" dur="4" oct="5" pname="c">
+                                 <accid xml:id="fqtab7x" />
+                              </note>
+                              <note xml:id="g3xrdx4" dots="1" dur.ppq="3" dur="8" oct="4" pname="c">
+                                 <accid xml:id="h2vdktu" />
+                              </note>
+                              <note xml:id="i8t12kq" dur.ppq="1" dur="16" oct="4" pname="e">
+                                 <accid xml:id="j1fudejw" />
+                              </note>
+                              <note xml:id="k1cf9qes" dur.ppq="8" dur="2" oct="5" pname="d">
+                                 <accid xml:id="lpexk0i" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="w1dq5q1o">
+                        <meterSig xml:id="x1wkeu8" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="m1da4101" metcon="false" n="2">
+                        <staff xml:id="vk9mncn" n="1">
+                           <layer xml:id="y14cg9p9" n="1">
+                              <note xml:id="z10myukp" dur.ppq="4" dur="4" oct="4" pname="c">
+                                 <accid xml:id="arpawhv" />
+                              </note>
+                              <note xml:id="bc7l9ji" dur.ppq="4" dur="4" oct="3" pname="g">
+                                 <accid xml:id="c184qaie" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="nu2dbhg">
+                        <meterSig xml:id="o4wq9ka" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="d1thmnq6" metcon="false" n="3">
+                        <staff xml:id="mm0hjaj" n="1">
+                           <layer xml:id="pggkaje" n="1">
+                              <note xml:id="qwpk1jh" dur.ppq="8" dur="2" oct="5" pname="c">
+                                 <accid xml:id="rjtee5" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

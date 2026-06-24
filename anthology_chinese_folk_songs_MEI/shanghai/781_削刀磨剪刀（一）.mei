@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="mgvih41">
+      <fileDesc xml:id="f1sn40ob">
+         <titleStmt xml:id="tczgyw0">
+            <title>页面_song_781</title>
+            <respStmt />
+         </titleStmt>
+         <pubStmt xml:id="pffc0aq" />
+      </fileDesc>
+      <encodingDesc xml:id="e1srz959">
+         <appInfo xml:id="acfrm87">
+            <application xml:id="a15khf7e" isodate="2026-06-24T10:13:17" version="6.2.1">
+               <name xml:id="n6gn3u6">Verovio</name>
+               <p xml:id="p9lzn4e">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="spujcy5">
+            <score xml:id="t379pk3">
+               <scoreDef xml:id="uparm5f">
+                  <staffGrp xml:id="w1v36xkx">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                        <label xml:id="xwpmp6p">简谱旋律</label>
+                        <keySig xml:id="h1o2986b" sig="0" />
+                        <meterSig xml:id="iazpo3e" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="v1cmn5pb">
+                  <expansion plist="#q1fw55eu" xml:id="r10z30z8" />
+                  <section xml:id="q1fw55eu">
+                     <measure xml:id="j1pmxq9b" metcon="false" n="1">
+                        <staff xml:id="s17efrac" n="1">
+                           <layer xml:id="tjmdp7k" n="1">
+                              <note xml:id="u1m3slsq" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="v1lxm43n" />
+                              </note>
+                              <note xml:id="w1sdpglk" dur.ppq="8" dur="2" oct="5" pname="a">
+                                 <accid xml:id="x1ibx43l" />
+                              </note>
+                              <note xml:id="ykpdb12" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="zp7enle" />
+                              </note>
+                              <note xml:id="a1ahug80" dur.ppq="2" dur="8" oct="4" pname="a">
+                                 <accid xml:id="bm5he7" />
+                              </note>
+                              <note xml:id="c1xqzlc6" dur.ppq="4" dur="4" oct="4" pname="e">
+                                 <accid xml:id="d91o08i" />
+                              </note>
+                              <rest xml:id="et3091i" dur.ppq="8" dur="2" />
+                              <note xml:id="f2bnp96" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="glgec03" />
+                              </note>
+                              <note xml:id="h3s2k5h" dur.ppq="8" dur="2" oct="5" pname="a">
+                                 <accid xml:id="iwvei50" />
+                              </note>
+                              <note xml:id="j4j8dma" dur.ppq="2" dur="8" oct="4" pname="g">
+                                 <accid xml:id="k1ew10wa" />
+                              </note>
+                              <note xml:id="l19p41ob" dur.ppq="2" dur="8" oct="4" pname="a">
+                                 <accid xml:id="m1et9pek" />
+                              </note>
+                              <note xml:id="n1vyfijo" dur.ppq="4" dur="4" oct="4" pname="e">
+                                 <accid xml:id="opjyunm" />
+                              </note>
+                              <rest xml:id="ploa5fe" dur.ppq="8" dur="2" />
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
